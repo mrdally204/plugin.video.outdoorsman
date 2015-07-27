@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 #------------------------------------------------------------
-# http://www.youtube.com/user/jennamarbles
 #------------------------------------------------------------
 # License: GPL (http://www.gnu.org/licenses/gpl-3.0.html)
 # Based on code from youtube addon
